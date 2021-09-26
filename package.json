@@ -1,0 +1,16 @@
+{
+  "name": "usando-socket.io",
+  "version": "1.0.0",
+  "description": "Exemplo de uso do socket.io",
+  "main": "app.js",
+  "scripts": {
+    "start": "node server/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pedro Santana",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^4.2.0"
+  }
+}
